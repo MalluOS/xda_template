@@ -1,0 +1,74 @@
+[CENTER][IMG]https://github.com/MalluOS/android_packages_apps_Settings/raw/f4120d60461dd9522fd6084f68803ca72efa563e/res/drawable-nodpi/malluos.png[/IMG][/CENTER] 
+ 
+MalluOS is a free, community built, aftermarket firmware distribution of Android 10 (Q), which is designed to increase performance and reliability over stock Android for your device. 
+ 
+MalluOS is based on the LineageOS Project with extra contributions from many people within the Mallu Android community. It can be used without any need to have any Google application installed. You will need to provide your own Google Applications package (gapps). LineageOS does still include various hardware-specific code, which is also slowly being open-sourced anyway. 
+ 
+Our Source code is available in the MalluOS [URL="http://github.com/MalluOS"]Github repo[/URL]
+Base source code is available in the LineageOS [URL="http://github.com/LineageOS"]Github repo[/URL].
+ 
+[B]GPL compliance:[/B] 
+[INDENT] 
+[IMG]http://i.imgur.com/yG18r6g.png[/IMG] 
+[LIST] 
+[*]Device tree source code: [URL="https://github.com/MalluOS-devices/android_device_xiaomi_beryllium"]MalluOS-devices/android_device_xiaomi_beryllium[/URL] 
+[*]Kernel source code: [URL="https://github.com/MalluOS-devices/android_kernel_xiaomi_sdm845"]MalluOS-devices/android_kernel_xiaomi_sdm845[/URL] 
+[/LIST] 
+[/INDENT]
+
+[B]Working:[/B] 
+[LIST] 
+[*]Camera (and flashlight) 
+[*]WiFi 
+[*]Battery LED
+[*]Bluetooth 
+[*]Telephony (Calls and Data) 
+[*]Audio (Record and Playback) 
+[*]Video Playback 
+[*]Sensors 
+[*]GPS 
+[*]VoLTE
+[*]ViLTE
+[*]HW crypto
+[/LIST] 
+
+[B]Broken:[/B] 
+[LIST] 
+[*]Nothing (?) 
+[/LIST] 
+
+[B]Compatibility:[/B] 
+[INDENT]POCO/POCOPHONE F1
+[/INDENT] 
+ 
+[B]Downloads:[/B] 
+[LIST] 
+[*][URL=https://sourceforge.net/projects/malluos/files/beryllium]Download links[/URL] 
+[/LIST] 
+
+[B]Notice:[/B] 
+[LIST] 
+[*][COLOR="Red"]No custom kernels are supported in this thread. Only stock kernel and official builds will be supported. No bug reports if that's not the case.[/COLOR] 
+[/LIST] 
+ 
+[B]Installation:[/B] 
+[LIST] 
+[*]Reboot to recovery 
+[*]Format /system,/vendor,/data and /cache 
+[*]Install MalluOS zip package 
+[*]Install [optional] a Google Apps package of your choice [STRIKE] ([URL="http://opengapps.org/?arch=arm64&api=10.0&variant=nano"]Open GApps[/URL] is recommended!!!)[/STRIKE] 
+[/LIST] 
+
+[INDENT][COLOR="Red"][B]Important notes:[/B][/COLOR] 
+[LIST] 
+[*][B][COLOR="Red"]* Required *[/COLOR][/B] firmware version must be based on MIUI Q-based builds.
+[*]GApps can only be flashed on clean installs. 
+[*]Formatting data (all user data is wiped, including internal storage) is a must if Stockrom was previously installed and device was encrypted. 
+[/LIST][/INDENT] 
+ 
+[B]Credits & collaborations:[/B] 
+LineageOS team 
+MalluOS Community
+CrDroid 
+AOSPA
+Pixel Experience
