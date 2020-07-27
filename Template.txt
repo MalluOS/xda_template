@@ -67,8 +67,10 @@ Base source code is available in the LineageOS [URL="http://github.com/LineageOS
 [/LIST][/INDENT] 
  
 [B]Credits & collaborations:[/B] 
+AOSP
 LineageOS team 
 MalluOS Community
 CrDroid 
 AOSPA
 Pixel Experience
+BlissROM
