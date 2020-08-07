@@ -37,6 +37,38 @@ Base source code is available in the LineageOS [URL="http://github.com/LineageOS
 [*]Nothing (?) 
 [/LIST] 
 
+[/B] Features [/B]
+
+[LIST]
+
+[*] Basic LineageOS features
+[*] MalluOS Specific optimizations 
+[*] Faceunlock
+[*] Status bar item customization
+[*] MIUI Brightness sider
+[*] MIUI Volume panel
+[*] Brightness control postition
+[*] Lotee Animation
+[*] Theme picker
+[*] Typography clock 
+[*] Custom Accents
+[*] Custom fonts
+[*] Pulse Navbar
+[*] 4G/LTE toggle
+[*] VoLTE Icons
+[*] QS Tile title
+[*] QS tiles control
+[*] Three finger gesture (screenshot)
+[*] Lockscreen animations
+[*] Lockscreen charging animations
+[*] Advanced restart
+[*] Charging animations
+[*] Gaming Mode
+[*] Disable HW keys
+[*] Adaptive Playback
+
+[/LIST]
+
 [B]Compatibility:[/B] 
 [INDENT]POCO/POCOPHONE F1
 [/INDENT] 
