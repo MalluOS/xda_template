@@ -50,7 +50,7 @@ Base source code is available in the LineageOS [URL="http://github.com/LineageOS
 [*] Brightness control postition
 [*] Lotee Animation
 [*] Theme picker
-[*] Typography clock 
+[*] Some Lockscreen Clock Styles 
 [*] Custom Accents
 [*] Custom fonts
 [*] Pulse Navbar
@@ -66,6 +66,19 @@ Base source code is available in the LineageOS [URL="http://github.com/LineageOS
 [*] Gaming Mode
 [*] Disable HW keys
 [*] Adaptive Playback
+[*] OTA Support
+[*] Expandable Volume Panel
+[*] Vowifi toggle
+[*] Vowifi Icons
+[*] Dataswitch Tile
+[*] Override VoLTE toggle with voWifi
+[*] Notch Cutout force fullscreen 
+[*] Karikku Vowifi icon
+[*] Full screen gesture navigation
+[*] Hide navigation handle (toggle)
+[*] Change length of navigation handle
+[*] Set minimum auto brightness
+
 
 [/LIST]
 
