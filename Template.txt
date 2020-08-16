@@ -37,7 +37,7 @@ Base source code is available in the LineageOS [URL="http://github.com/LineageOS
 [*]Nothing (?) 
 [/LIST] 
 
-[/B] Features [/B]
+[B] Features [/B]
 
 [LIST]
 
