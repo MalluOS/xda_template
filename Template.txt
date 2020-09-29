@@ -75,6 +75,7 @@ Base source code is available in the LineageOS [URL="http://github.com/LineageOS
 
 [B]Credits & collaborations:[/B] 
 LineageOS team 
+AOSP
 MalluOS Community
 CrDroid 
 AOSPA
